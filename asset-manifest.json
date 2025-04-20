@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aayushgaurav/Job-Listing-Application/static/css/main.e2cb278e.css",
+    "main.js": "/aayushgaurav/Job-Listing-Application/static/js/main.9b986510.js",
+    "index.html": "/aayushgaurav/Job-Listing-Application/index.html",
+    "main.e2cb278e.css.map": "/aayushgaurav/Job-Listing-Application/static/css/main.e2cb278e.css.map",
+    "main.9b986510.js.map": "/aayushgaurav/Job-Listing-Application/static/js/main.9b986510.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2cb278e.css",
+    "static/js/main.9b986510.js"
+  ]
+}
